@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **alexa.borislavov@gmail.com**
 
-- ⚡ Fun fact **I love fashion an developing my own style!**
+- ⚡ Fun fact **I love fashion and developing my own style!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
