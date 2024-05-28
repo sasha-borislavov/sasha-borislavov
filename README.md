@@ -1,6 +1,6 @@
 ## 👋 &nbsp;Hey there! I'm Sasha
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👩‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Business Managment at the University of Queensland.\
