@@ -3,7 +3,7 @@
 ### 👩‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm currently studying Computer Science and Business Managment at the University of Queensland.\
-🌱 &nbsp;I'm on track to major in Machine Learning and Economics.\
+🌱 &nbsp;I'm majoring in Machine Learning and Economics.\
 ✍️ &nbsp;In my free time, I pursue Digital Art and Creative Writing as hobbies/side hustles.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
