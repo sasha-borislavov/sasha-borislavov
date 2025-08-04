@@ -1,20 +1,23 @@
-## 👋 &nbsp;Hey there! I'm Sasha
+# ✿ Welcome! I'm Sasha
 
-### 👩‍💻 &nbsp;About Me
+Hi! My name is Sasha and i'm a Computer Science & Business Management student at UQ. 
+I like building cute web apps, exploring data, and making things that bring a bit of joy to everyday life.
 
-🎓 &nbsp;I'm currently studying Computer Science and Business Managment at the University of Queensland.\
-🌱 &nbsp;I'm majoring in Machine Learning and Economics.\
-✍️ &nbsp;In my free time, I pursue Digital Art and Creative Writing as hobbies/side hustles.
+## ⋆˚࿔ What I'm into right now: 
+- learning frontend development w/ React & Tailwind
+- AI & machine learning projects
+- Problem solving & algorithims
+- Fashion, journaling & occasionally blogging about my little life!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+## 𐙚 ̊⋆ My current tech stack:
+- Java | Python | Assembly | C
+- React | HTML | CSS
+- Git & Github
 
-### 🛠 &nbsp;Tech Stack
+## ⋆⭒˚ More about me:
+- Billingual 🇧🇬🇦🇺 (English + Bulgarian) + learning Mandarin
+- Love fashion, music, and trinkets
+- Always excited about hackathons, creating coding, and building things that feel *fun* + *thoughtful*
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)\
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
-
+Thanks for dropping by! Feel ree to explore my repos or connect:
+📫 alexa.borislavov@gmail.com
