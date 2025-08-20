@@ -17,7 +17,7 @@ I like building cute web apps, exploring data, and making things that bring a bi
 ## ⋆⭒˚ More about me:
 - Billingual 🇧🇬🇦🇺 (English + Bulgarian) + learning Mandarin
 - Love fashion, music, and trinkets
-- Always excited about hackathons, creating coding, and building things that feel *fun* + *thoughtful*
+- Always excited about hackathons, creative coding, and building things that feel *fun* + *thoughtful*
 
 Thanks for dropping by! Feel ree to explore my repos or connect:
 📫 alexa.borislavov@gmail.com
